@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "untitled",
+					"name" : "Unoesc_C",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-204272095a7187a80159.json",
-					"name" : "untitled",
+					"id" : "Unoesc_C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Unoesc_C-Debug-9552ab41afc057a337e4.json",
+					"name" : "Unoesc_C",
 					"projectIndex" : 0
 				}
 			]
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/User/CLionProjects/untitled/cmake-build-debug",
-		"source" : "C:/Users/User/CLionProjects/untitled"
+		"build" : "C:/Users/User/Desktop/CienciasDaComputacao---C/cmake-build-debug",
+		"source" : "C:/Users/User/Desktop/CienciasDaComputacao---C"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }

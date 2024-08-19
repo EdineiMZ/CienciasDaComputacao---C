@@ -26,6 +26,12 @@ set(CMAKE_C_COMPILER_AR "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/bi
 set(CMAKE_RANLIB "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/bin/ranlib.exe")
 set(CMAKE_C_COMPILER_RANLIB "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/bin/gcc-ranlib.exe")
 set(CMAKE_LINKER "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/bin/ld.exe")
+set(CMAKE_LINKER_LINK "")
+set(CMAKE_LINKER_LLD "")
+set(CMAKE_C_COMPILER_LINKER "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/bin/ld.exe")
+set(CMAKE_C_COMPILER_LINKER_ID "GNU")
+set(CMAKE_C_COMPILER_LINKER_VERSION 2.40)
+set(CMAKE_C_COMPILER_LINKER_FRONTEND_VARIANT GNU)
 set(CMAKE_MT "")
 set(CMAKE_TAPI "CMAKE_TAPI-NOTFOUND")
 set(CMAKE_COMPILER_IS_GNUCC 1)
@@ -39,7 +45,7 @@ set(CMAKE_C_COMPILER_ID_RUN 1)
 set(CMAKE_C_SOURCE_FILE_EXTENSIONS c;m)
 set(CMAKE_C_IGNORE_EXTENSIONS h;H;o;O;obj;OBJ;def;DEF;rc;RC)
 set(CMAKE_C_LINKER_PREFERENCE 10)
-set(CMAKE_C_LINKER_DEPFILE_SUPPORTED TRUE)
+set(CMAKE_C_LINKER_DEPFILE_SUPPORTED FALSE)
 
 # Save compiler ABI information.
 set(CMAKE_C_SIZEOF_DATA_PTR "8")
@@ -68,7 +74,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/include;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/include;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include;/MinGW/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "mingw32;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc;moldname;mingwex;kernel32")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib/gcc;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib;C:/Users/User/AppData/Local/Programs/CLion/bin/mingw/lib;/MinGW/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
