@@ -351,6 +351,34 @@ void questao6() {
     printf("Soma dos elementos da terceira linha: %d\n", soma);
 }
 
+//================================================ ////// =============================================================
+
+//Escreva um programa  com uma matriz de char 3x3 e um vetor de 9 elementoschar também.
+// Leia  caracteres  para  a matriz.
+// Em  seguida  copie,  um  a  um,  os  caracteres  da  matriz  para  o vetor.
+
+void questao7() {
+    char matriz[3][3];
+    char vetor[9];
+    int lin, col;
+    for (lin = 0; lin < 3; lin++)
+        for (col = 0; col < 3; col++) {
+            printf("Digite o caractere da posição [%d][%d]: ", lin, col);
+            scanf(" %c", &matriz[lin][col]);
+        }
+
+    int i = 0;
+    for (lin = 0; lin < 3; lin++)
+        for (col = 0; col < 3; col++) {
+            vetor[i] = matriz[lin][col];
+            i++;
+        }
+
+    for (i = 0; i < 9; i++) {
+        printf("%c ", vetor[i]);
+    }
+}
+
 
 
 
@@ -361,7 +389,7 @@ void main () { // Função principal
     // calculoImpostoRenda(); // Chama a função calculoImpostoRenda
     // dois (); // Chama a função dois
     // questao3_2 (); // Chama a função questao3_2
-   questao6();
+   questao7();
    system("PAUSE"); // Pausa o sistema
 }; // Fim da função principal
 
