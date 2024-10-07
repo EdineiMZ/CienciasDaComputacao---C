@@ -121,6 +121,12 @@ build CMakeFiles/Unoesc_C.dir/questao11.c.obj: C_COMPILER__Unoesc_C_unscanned_De
   OBJECT_DIR = CMakeFiles\Unoesc_C.dir
   OBJECT_FILE_DIR = CMakeFiles\Unoesc_C.dir
 
+build CMakeFiles/Unoesc_C.dir/jhvsajhfdalfdaf.c.obj: C_COMPILER__Unoesc_C_unscanned_Debug C$:/Users/User/Desktop/CienciasDaComputacao---C/jhvsajhfdalfdaf.c || cmake_object_order_depends_target_Unoesc_C
+  DEP_FILE = CMakeFiles\Unoesc_C.dir\jhvsajhfdalfdaf.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Unoesc_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Unoesc_C.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Unoesc_C
@@ -129,7 +135,7 @@ build CMakeFiles/Unoesc_C.dir/questao11.c.obj: C_COMPILER__Unoesc_C_unscanned_De
 #############################################
 # Link the executable Unoesc_C.exe
 
-build Unoesc_C.exe: C_EXECUTABLE_LINKER__Unoesc_C_Debug CMakeFiles/Unoesc_C.dir/primeiro.c.obj CMakeFiles/Unoesc_C.dir/questao1.c.obj CMakeFiles/Unoesc_C.dir/questao2.c.obj CMakeFiles/Unoesc_C.dir/questao3.c.obj CMakeFiles/Unoesc_C.dir/questao4.c.obj CMakeFiles/Unoesc_C.dir/questao5.c.obj CMakeFiles/Unoesc_C.dir/questao6.c.obj CMakeFiles/Unoesc_C.dir/questao7.c.obj CMakeFiles/Unoesc_C.dir/questao8.c.obj CMakeFiles/Unoesc_C.dir/questao9.c.obj CMakeFiles/Unoesc_C.dir/questao10.c.obj CMakeFiles/Unoesc_C.dir/questao11.c.obj
+build Unoesc_C.exe: C_EXECUTABLE_LINKER__Unoesc_C_Debug CMakeFiles/Unoesc_C.dir/primeiro.c.obj CMakeFiles/Unoesc_C.dir/questao1.c.obj CMakeFiles/Unoesc_C.dir/questao2.c.obj CMakeFiles/Unoesc_C.dir/questao3.c.obj CMakeFiles/Unoesc_C.dir/questao4.c.obj CMakeFiles/Unoesc_C.dir/questao5.c.obj CMakeFiles/Unoesc_C.dir/questao6.c.obj CMakeFiles/Unoesc_C.dir/questao7.c.obj CMakeFiles/Unoesc_C.dir/questao8.c.obj CMakeFiles/Unoesc_C.dir/questao9.c.obj CMakeFiles/Unoesc_C.dir/questao10.c.obj CMakeFiles/Unoesc_C.dir/questao11.c.obj CMakeFiles/Unoesc_C.dir/jhvsajhfdalfdaf.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Unoesc_C.dir

@@ -1,4 +1,18 @@
 # ninja log v6
-19	213	7458133331614450	CMakeFiles/Unoesc_C.dir/primeiro.c.obj	5e38dac939362c1
+27	417	7458190045252808	CMakeFiles/Unoesc_C.dir/primeiro.c.obj	5e38dac939362c1
 215	336	7458133333570348	Unoesc_C.exe	34a24faeff964932
-3	257	7458144279519638	build.ninja	4e4646e6dc3055f4
+3	257	7464153742865978	build.ninja	4e4646e6dc3055f4
+38	394	7458190045352832	CMakeFiles/Unoesc_C.dir/questao2.c.obj	dd4528f5939e2c82
+47	402	7458190045442857	CMakeFiles/Unoesc_C.dir/questao4.c.obj	a3f5fb1327f09f4e
+42	407	7458190045392851	CMakeFiles/Unoesc_C.dir/questao3.c.obj	4a467bcdf40dcc0d
+53	407	7458190045512867	CMakeFiles/Unoesc_C.dir/questao6.c.obj	1a5a3211bf2daf6f
+64	408	7458190045612905	CMakeFiles/Unoesc_C.dir/questao9.c.obj	c022201180eca44e
+61	408	7458190045582895	CMakeFiles/Unoesc_C.dir/questao8.c.obj	95d40b646bd2031
+57	414	7458190045542879	CMakeFiles/Unoesc_C.dir/questao7.c.obj	457289584d6e5c9c
+50	415	7458190045472857	CMakeFiles/Unoesc_C.dir/questao5.c.obj	8d6cd84be956a240
+32	420	7458190045302828	CMakeFiles/Unoesc_C.dir/questao1.c.obj	11c940af92e2c2e0
+402	492	7458190048989308	CMakeFiles/Unoesc_C.dir/questao11.c.obj	76576a169bfeab84
+395	492	7458190048929276	CMakeFiles/Unoesc_C.dir/questao10.c.obj	1c45c00acd0e025b
+6	290	7464153801445391	CMakeFiles/Unoesc_C.dir/primeiro.c.obj	5e38dac939362c1
+5	80	7464154810487974	CMakeFiles/Unoesc_C.dir/jhvsajhfdalfdaf.c.obj	bf5dca21e2bfc9d0
+5	75	7464163697086829	CMakeFiles/Unoesc_C.dir/jhvsajhfdalfdaf.c.obj	bf5dca21e2bfc9d0

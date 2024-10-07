@@ -16,4 +16,18 @@ add_executable(Unoesc_C
         questao9.c
         questao10.c
         questao11.c
+        jhvsajhfdalfdaf.c
+        beecrowd/area_do_circulo.c
+        beecrowd/area_do_circulo.c
+        beecrowd/area_do_circulo.c
+        questao12.c
+        questao12.c
+        questao13.c
+        questao14.c
+        questao15.c
+        testes.c
+        questão16.c
+        questão16.c
+        questao17.c
+        questao18.c
 )

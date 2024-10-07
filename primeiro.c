@@ -384,14 +384,68 @@ void questao7() {
 
 //================================================ ////// =============================================================
 
-void main () { // Função principal
-    setlocale(LC_ALL, "Portuguese"); // Define a localização para português
-    // calculoImpostoRenda(); // Chama a função calculoImpostoRenda
-    // dois (); // Chama a função dois
-    // questao3_2 (); // Chama a função questao3_2
-   questao7();
-   system("PAUSE"); // Pausa o sistema
-}; // Fim da função principal
+
+
+
+
+//Leia 2 valores inteiros e armazene-os nas variáveis A e B.
+//Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo.
+//Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+
+void questao8() {
+    int A, B, X;
+    scanf("%d", &A);
+    scanf("%d", &B);
+    X = A + B;
+    printf("X = %d\n", X);
+}
+
+//================================================ ////// =============================================================
+
+//Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais, segundo a fórmula:
+//
+//Distancia = Entrada
+//O arquivo de entrada contém duas linhas de dados. A primeira linha contém dois valores de ponto flutuante: x1 y1 e a segunda linha contém dois valores de ponto flutuante x2 y2.
+//
+//Saída
+//Calcule e imprima o valor da distância segundo a fórmula fornecida, considerando 4 casas decimais.
+
+
+double atv4(double x1, double y1, double x2, double y2) {
+    // Calcula e retorna a distância
+    return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+}
+
+
+
+
+
+
+
+
+//================================================ ////// =============================================================
+
+#include <stdio.h>
+
+int main() {
+    //imprime hello word
+    printf("Hello, World!\n");
+    /**
+     * Escreva a sua solução aqui
+     * Code your solution here
+     * Escriba su solución aquí
+     */
+
+    return 0;
+}
+//void main () { // Função principal
+//    setlocale(LC_ALL, "Portuguese"); // Define a localização para português
+//    // calculoImpostoRenda(); // Chama a função calculoImpostoRenda
+//    // dois (); // Chama a função dois
+//    // questao3_2 (); // Chama a função questao3_2
+//   questao7();
+//   system("PAUSE"); // Pausa o sistema
+//}; // Fim da função principal
 
 
 
